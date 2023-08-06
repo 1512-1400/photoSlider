@@ -1,0 +1,11 @@
+*{
+    overflow: hidden;
+}
+/* .containerr{
+    background-image: url(./pexels-negative-space-169573.jpg);
+    background-position: center;
+    background-size: cover;
+} */
+.leftArrow, .rightArrow{
+    transition: all 0.3s;
+}
